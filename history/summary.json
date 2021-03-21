@@ -4,17 +4,17 @@
     "url": "https://www.taimetoitlane.ee",
     "icon": "https://favicons.githubusercontent.com/www.taimetoitlane.ee",
     "slug": "taimetoitlane-ee",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 194,
-    "timeDay": 333,
-    "timeWeek": 202,
-    "timeMonth": 166,
-    "timeYear": 194,
+    "time": 192,
+    "timeDay": 191,
+    "timeWeek": 183,
+    "timeMonth": 162,
+    "timeYear": 192,
     "dailyMinutesDown": {}
   }
 ]
